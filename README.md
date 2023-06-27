@@ -37,6 +37,19 @@ The project is presented in a jupyter notebook written in French.
 
 ## Snippets 
 
+<img src="modelisation_vitesse_gaussienne.png" width="500"/>
+Modelisation of car behaviour when the first car has gaussian speed.
+
+***
+
+<img src="modelisation_bouchons.png" width="500"/>
+Modelling traffic jams.
+
+***
+
+<img src="modelisation_limites_du_modele.png" width="500"/>
+Exploring the limits of the model. 
+
 
 
 ## Acknowledgements
