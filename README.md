@@ -1,4 +1,4 @@
-# Modelisation du traffic routier
+# Microscopic Road Traffic Modelling
 
 Welcome to the Microscopic Road Traffic Analysis project that is part of my Bachelor's degree studies. 
 This project provides a mathematical and numerical analysis of road traffic from a microscopic perspective, aiming to explore the individual dynamics of vehicles.
